@@ -16,7 +16,7 @@ I was in some kind of ship. It was in trouble and apparently it ended up crashin
 
 There was food in a larder that was unspoilt. I found water and wine in other rooms. As I worked to understand the magical device, I learned that the backpack the skeleton wore was key. When I picked it up, the smooth white stone broke into tiny pieces. The innards of the backpack spilled out in a heap of steel and copper.
 
-As I said, I'm a man of skills. I know a little magic and it helped me to repair the backpack. As I put the last pieces in place, a bat made its way into the ship and crashed into everything. I set off the backpack which sent out a large spark to the bat. The bat was unharmed, but the backpack began to whur and hum. Words flashed on the armband that said "Process complete.". Sometime later, I learned how to r
+As I said, I'm a man of skills. I know a little magic and it helped me to repair the backpack. As I put the last pieces in place, a bat made its way into the ship and crashed into everything. It set off the backpack which sent out a large spark to the bat. The bat was unharmed, but the backpack began to whir and hum. Words flashed on the armband that said "Process complete.". Sometime later, I learned how to r
 
 # Blood Thief
 The Blood Thief uses a mix of technology and magic to extract the quintessence of a creature to generate spells or potions. The extractor is an artifact of long lost technology that is barely understood. The extractor takes the quintessence of one creature and stores it. As the blood thief gains experience using the device, he or she increases to capacity to store quintessence.
