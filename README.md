@@ -15,4 +15,4 @@ There are non-human races, each with a unique background. The Sachima are descen
 Adventures can be dungeon crawls, but can also feature travelling through ancient gates to other worlds, rebuilding trade between two or more kingdoms, or saving a long-opressed people from the rule of the mad crabmen.
 
 ## When will it be available?
-THe goal is the fall of 2019.
+The goal is the fall of 2019.
