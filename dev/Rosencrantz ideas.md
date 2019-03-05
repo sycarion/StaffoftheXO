@@ -1,4 +1,4 @@
-# Red Concordant Ideas December 16, 2017
+# Rosencrantz Ideas March 5, 2019
 
 ## Arcane Magic Traditions
 
