@@ -1,6 +1,6 @@
 # Antilla
 
-**Note: This will be changed into Hendenciad temples with the eXo and the Canavarii.**
+**Note: This will be changed into Hendenciad temples with the eXo and the Tekulim.**
 
 Jeff Rients posted [this](http://web.archive.org/web/20120419081143/http://jrients.blogspot.com/2010/08/heres-campaign-idea-to-steal.html) last week on his website. It is about the mythical island of Antilla drawn on maps from medieval times through the early 19th century. In his article, he quoted an idea pitched in Dragon Magazine #34.
 
