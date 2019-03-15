@@ -6,7 +6,7 @@ Magic is everywhere, but Arcane magic is organized locally, or at best, regional
 
 | ARCANE MAGIC                        | Primary             | secondary         |
 | ----------------------------------- | ------------------- | ----------------- |
-| Spell Charts                        | Porta Nile          | Ragozine's Column |
+| Rune Mage                           | Porta Nile          | Ragozine's Column |
 | Salt Mage                           | Camalanth (western) | Ragozine's Column |
 | Cult of Hot Iron (NPC magic system) | Camalanth (eastern) |                   |
 | Summoners                           | Gaerleon            |                   |
