@@ -8,7 +8,7 @@ According to scholars, the Tekulim priests were one of first religious orders of
 
 One of the earliest threats was a creature believed to be harmless. As humans learned to work metal, these creatures proved dangerous. The threat was not due to the loss of life, but due to the loss of cities. A monster that consumed gold and iron, threatened to destroy almost all of human technology. Men had worked hard to leave behind their stone weapons and crude dwellings. They began to make clay pots, bronze implements, and even metal weapons.
 
-When the creatures they called the Chumam-La appeared in the thousands, men looked to Tekulim to implore the gods for help. The gods responded by choosing a handful of select craftsmen to learn how to make godstone, the first divine gift to mankind.
+When the creatures they called the Chumam-La appeared in the thousands, men looked to the Tekulim to implore the gods for help. The gods responded by choosing a handful of select craftsmen to learn how to make godstone, the first divine gift to mankind.
 
 Godstone could not be devoured by the chumam-la, allowing the priests and their armed men to destroy this feared creature.
 
