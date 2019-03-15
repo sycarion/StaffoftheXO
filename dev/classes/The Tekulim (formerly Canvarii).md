@@ -1,8 +1,6 @@
-## The Tekulim (formerly Canvarii)
+## The Tekulim
 
-Over a year ago, I posted about [Clerics and a mystery metal](http://www.sycarion.com/why-clerics-use-blunt-weapons-mostly/) that provided back story for why Clerics were different from wizards. Now that I'm working on material for a zine and for a possible game in October, I wanted to refine the idea a bit to better fit within Swords & Wizardry.
-
-Here is the standard Cleric in one of my campaign worlds. Other clerics have different power and spellcasting abilities, but this is the base upon which all others define themselves.
+This is the standard Cleric in the region around the Samoora Sea. Other clerics have different power and spellcasting abilities, like Priests of Different Mythoi in 2e.
 
 ### History
 
@@ -18,28 +16,28 @@ Godstone cannot hold a sharp edge, but it is a dense material with a faint grey-
 
 The next great threat came with the learning of magic. Mankind is drawn to the few arts of elves, so naturally, a few men sought to use magic to dominate his fellow man. Tyrants arose that wielded eldrtich forces that they could barely understand, much less contain. The ground and sky recoiled. Men and their allies were subjugated. Non-humans, even the mighty elves, were nearly eliminated from existence.
 
-Though slow to answer, the gods granted another boon to the Canavari, the gift of magic. This divine magic worked to help the weak and bring justice to the oppressors of men. With divine protection and containment, the Canavari drove back the forces of evil and saved the world.
+Though slow to answer, the gods granted another boon to the Tekulim, the gift of magic. This divine magic worked to help the weak and bring justice to the oppressors of men. With divine protection and containment, the Tekulim drove back the forces of evil and saved the world.
 
-This is why even the agnostic elves give respect to the Canavari. The elves began to teach the old ways of magic publicly. With their help, the earth and sky were healed. Civilizations were rebuilt from the ruins bringing a time of prosperity.
+This is why even the agnostic elves give respect to the Tekulim. The elves began to teach the old ways of magic publicly. With their help, the earth and sky were healed. Civilizations were rebuilt from the ruins bringing a time of prosperity.
 
 It did not last. Once again determined to pervert the magical arts, evil men learned to animate the bodies of the dead to serve in vast armies. As the undead armies marched on city after city, their ranks swelled with victims reborn to serve a new masters.
 
-Again invoking the gods, the Canavari were provided with the Symbol of the Wolf. This sacred symbol, when presented to undead creatures would break the control of evil wizards and cause them to flee from the presence of the holy symbol.
+Again invoking the gods, the Tekulim were provided with the Symbol of the Wolf. This sacred symbol, when presented to undead creatures would break the control of evil wizards and cause them to flee from the presence of the holy symbol.
 
-Lines of Canavari priests turned away the armies and freed the undead to return to their eternal sleep. The Canavari consider all wizards as vile heretics, yet they had saved mankind once again standing with the elves and other allies of man.
+Lines of Tekulim priests turned away the armies and freed the undead to return to their eternal sleep. The Tekulim consider all wizards as vile heretics, yet they had saved mankind once again standing with the elves and other allies of man.
 
 These ancient priests are dedicated to their traditions and gifts from the gods. They seek to protect manking and their allies from threats large and small. They know that when the world plunges into darkness, they will stand with the forces of light and fight.
 
 ### Game Data
 
-The Canavari are played as a Cleric as written in Swords & Wizardry with very small changes. Slings are allowed and godstone sling bullets do 1d6 damage. Due to their weight, it is rare for anyone to carry more than four of these sling bullets at any time. Most of the time, Canavari use them as valuable items to barter or gift to others. Canavari can also use blunt hand-axe type weapons they call "wedges". They do 1d6 damage.
+The Tekulim are played as a Cleric as written in Swords & Wizardry with very small changes. Slings are allowed and godstone sling bullets do 1d6 damage. Due to their weight, it is rare for anyone to carry more than four of these sling bullets at any time. Most of the time, Tekulim use them as valuable items to barter or gift to others. Tekulim can also use blunt hand-axe type weapons they call "wedges". They do 1d6 damage.
 
 Chainmail made from godstone provides the same protection as plate mail as well as having the same effect on encumbrance.
 
-There are no Chaotic Canavari. All of them are Lawful.
+There are no Chaotic Tekulim. All of them are Lawful.
 
 ### Place in a Campaign World
 
-Canavari are the standard warrior-priests found in D&D and D&D-like games. Since my worlds often have a range of cleric choices, this is the choice for those that want to "just be a Cleric". Other cleric types have different turning abilities and various type of magic available.
+Tekulim are the standard warrior-priests found in D&D and D&D-like games. Since my worlds often have a range of cleric choices, this is the choice for those that want to *just be a Cleric*. Other cleric types have different turning abilities and various type of magic available.
 
-They scorn all arcane magic as evil. They will begrudgingly tolerate Lawful wizards, but actively avoid speaking with them. The referee may choose to play this up if a Wizard and a Canavari find themselves in the same party.
+They scorn all arcane magic as evil. They will begrudgingly tolerate Lawful wizards, but actively avoid speaking with them. The referee may choose to play this up if a Wizard and a Tekulim find themselves in the same party.
