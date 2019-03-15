@@ -4,7 +4,7 @@ This is the standard Cleric in the region around the Samoora Sea. Other clerics 
 
 ### History
 
-According to Elven scholars, the Tekulim priests were one of first religious orders of mankind. The traditions of these priests have been maintained through thousands of years.  When humans have faced their greatest threats, it has been the Tekulim that lead the battle.
+According to scholars, the Tekulim priests were one of first religious orders of mankind. The traditions of these priests have been maintained through thousands of years.  When humans have faced their greatest threats, it has been the Tekulim that lead the battle.
 
 One of the earliest threats was a creature believed to be harmless. As humans learned to work metal, these creatures proved dangerous. The threat was not due to the loss of life, but due to the loss of cities. A monster that consumed gold and iron, threatened to destroy almost all of human technology. Men had worked hard to leave behind their stone weapons and crude dwellings. They began to make clay pots, bronze implements, and even metal weapons.
 
