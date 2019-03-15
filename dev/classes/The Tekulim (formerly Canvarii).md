@@ -18,7 +18,7 @@ The next great threat came with the learning of magic. Mankind is drawn to the a
 
 Though slow to answer, the gods granted another boon to the Tekulim, the gift of magic. This divine magic worked to help the weak and bring justice to the oppressors of men. With divine protection and containment, the Tekulim drove back the forces of evil and saved the world.
 
-This is why even the agnostic elves give respect to the Tekulim. The elves began to teach the old ways of magic publicly. With their help, the earth and sky were healed. Civilizations were rebuilt from the ruins bringing a time of prosperity.
+This is why even the agnostic goblins give respect to the Tekulim. With help from the Tekulim's magic, the earth and sky were healed. Civilizations were rebuilt from the ruins bringing a time of prosperity.
 
 It did not last. Once again determined to pervert the magical arts, evil men learned to animate the bodies of the dead to serve in vast armies. As the undead armies marched on city after city, their ranks swelled with victims reborn to serve a new masters.
 
