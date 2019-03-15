@@ -40,4 +40,4 @@ There are no Neutral or Chaotic Tekulim. All of them are Lawful.
 
 Tekulim are the standard warrior-priests found in D&D and D&D-like games. Since my worlds often have a range of cleric choices, this is the choice for those that want to *just be a Cleric*. Other cleric types have different turning abilities and various type of magic available.
 
-They scorn all arcane magic as evil. They will begrudgingly tolerate Lawful wizards, but actively avoid speaking with them. The referee may choose to play this up if a Wizard and a Tekulim find themselves in the same party.
+They scorn all arcane magic as evil. They will begrudgingly tolerate Lawful magic-users, but actively avoid speaking with them. The referee may choose to play this up if a magic-user and a Tekulim find themselves in the same party.
