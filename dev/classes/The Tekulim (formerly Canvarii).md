@@ -10,9 +10,9 @@ One of the earliest threats was a creature believed to be harmless. As humans le
 
 When the creatures they called the Chumam-La appeared in the thousands, men looked to the Tekulim to implore the gods for help. The gods responded by choosing a handful of select craftsmen to learn how to make godstone, the first divine gift to mankind.
 
-Godstone could not be devoured by the chumam-la, allowing the priests and their armed men to destroy this feared creature.
+Godstone (*Ellablat*) could not be devoured by the chumam-la, allowing the priests and their armed men to destroy this feared creature.
 
-Godstone cannot hold a sharp edge, but it is a dense material with a faint grey-blue sheen. Godstone cannot rust and it is hard to destroy. All Tekulim use sling bullets, chain armor, clubs, and blunt wedges made from the divine substance. Although the armor, clubs, and wedges are sacred weapons, the priests will sell sling bullets to outsiders.
+Ellablat cannot hold a sharp edge, but it is a dense material with a faint grey-blue sheen. Ellablat cannot rust and it is hard to destroy. All Tekulim use sling bullets, chain armor, clubs, and blunt wedges made from the divine substance. Although the armor, clubs, and wedges are sacred weapons, the priests will sell sling bullets to outsiders.
 
 The next great threat came with the learning of magic. Mankind is drawn to the few arts of elves, so naturally, a few men sought to use magic to dominate his fellow man. Tyrants arose that wielded eldrtich forces that they could barely understand, much less contain. The ground and sky recoiled. Men and their allies were subjugated. Non-humans, even the mighty elves, were nearly eliminated from existence.
 
