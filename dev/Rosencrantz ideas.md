@@ -1,4 +1,4 @@
-# Rosencrantz Ideas March 5, 2019
+# Rosencrantz Ideas March 15, 2019
 
 ## Arcane Magic Traditions
 
