@@ -34,7 +34,7 @@ The Tekulim are played as a Cleric as written in Swords & Wizardry with very sma
 
 Chainmail made from godstone provides the same protection as plate mail as well as having the same effect on encumbrance.
 
-There are no Chaotic Tekulim. All of them are Lawful.
+There are no Neutral or Chaotic Tekulim. All of them are Lawful.
 
 ### Place in a Campaign World
 
