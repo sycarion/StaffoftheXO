@@ -14,7 +14,7 @@ Godstone (*Ellablat*) could not be devoured by the chumam-la, allowing the pries
 
 Ellablat cannot hold a sharp edge, but it is a dense material with a faint grey-blue sheen. Ellablat cannot rust and it is hard to destroy. All Tekulim use sling bullets, chain armor, clubs, and blunt wedges made from the divine substance. Although the armor, clubs, and wedges are sacred weapons, the priests will sell sling bullets to outsiders.
 
-The next great threat came with the learning of magic. Mankind is drawn to the few arts of elves, so naturally, a few men sought to use magic to dominate his fellow man. Tyrants arose that wielded eldrtich forces that they could barely understand, much less contain. The ground and sky recoiled. Men and their allies were subjugated. Non-humans, even the mighty elves, were nearly eliminated from existence.
+The next great threat came with the learning of magic. Mankind is drawn to the arts of ancients, so naturally, a few men sought to use magic to dominate his fellow man. Tyrants arose that wielded eldrtich forces that they could barely understand, much less contain. The ground and sky recoiled. Men and their allies were subjugated. Even the mighty dragons, were hunted to near-extinction.
 
 Though slow to answer, the gods granted another boon to the Tekulim, the gift of magic. This divine magic worked to help the weak and bring justice to the oppressors of men. With divine protection and containment, the Tekulim drove back the forces of evil and saved the world.
 
