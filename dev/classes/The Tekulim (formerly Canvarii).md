@@ -6,15 +6,15 @@ Here is the standard Cleric in one of my campaign worlds. Other clerics have dif
 
 ### History
 
-According to Elven scholars, the Canavari priests were one of first religious orders of mankind. The traditions of these priests have been maintained through thousands of years.  When humans have faced their greatest threats, it has been the Canavari that lead the battle.
+According to Elven scholars, the Tekulim priests were one of first religious orders of mankind. The traditions of these priests have been maintained through thousands of years.  When humans have faced their greatest threats, it has been the Tekulim that lead the battle.
 
 One of the earliest threats was a creature believed to be harmless. As humans learned to work metal, these creatures proved dangerous. The threat was not due to the loss of life, but due to the loss of cities. A monster that consumed gold and iron, threatened to destroy almost all of human technology. Men had worked hard to leave behind their stone weapons and crude dwellings. They began to make clay pots, bronze implements, and even metal weapons.
 
-When the creatures they called the Chumam-La appeared in the thousands, men looked to Canavari to implore the gods for help. The gods responded by choosing a handful of select craftsmen to learn how to make godstone, the first divine gift to mankind.
+When the creatures they called the Chumam-La appeared in the thousands, men looked to Tekulim to implore the gods for help. The gods responded by choosing a handful of select craftsmen to learn how to make godstone, the first divine gift to mankind.
 
 Godstone could not be devoured by the chumam-la, allowing the priests and their armed men to destroy this feared creature.
 
-Godstone cannot hold a sharp edge, but it is a dense material with a faint grey-blue sheen. Godstone cannot rust and it is hard to destroy. All Canavari use sling bullets, chain armor, clubs, and blunt wedges made from the divine substance. Although the armor, clubs, and wedges are sacred weapons, the priests will sell sling bullets to outsiders.
+Godstone cannot hold a sharp edge, but it is a dense material with a faint grey-blue sheen. Godstone cannot rust and it is hard to destroy. All Tekulim use sling bullets, chain armor, clubs, and blunt wedges made from the divine substance. Although the armor, clubs, and wedges are sacred weapons, the priests will sell sling bullets to outsiders.
 
 The next great threat came with the learning of magic. Mankind is drawn to the few arts of elves, so naturally, a few men sought to use magic to dominate his fellow man. Tyrants arose that wielded eldrtich forces that they could barely understand, much less contain. The ground and sky recoiled. Men and their allies were subjugated. Non-humans, even the mighty elves, were nearly eliminated from existence.
 
