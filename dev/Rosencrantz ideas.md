@@ -32,7 +32,7 @@ Clerics have different powers depending on their patron god, titan, or XO. In ot
 
 Divine Magic is very organized and universal throughout the Samoora region, except for Klymavori. In Klymavori, there is an alternate form that reveres an ancient dragon instead of the Samoora pantheon. However, a scroll written by any Cleric, including Klymavori, is understandable and repeatable to any other Cleric.
 
-Almost anyone can read a Cleric scroll, however, there are lethal and generational consequences for those that anger the gods by doing so. The lone exception is the ancient dragon cult in Klymavori. They are always looking for new followers. (Need to write rules for changing classes if a non-Cleric attempts to cast a cult of dragon Vinakrah spell.)
+Almost anyone can read a Cleric scroll, however, there are lethal and generational consequences for those that anger the gods by doing so. The lone exception is the ancient dragon cult in Klymavori. They are always looking for new followers. (Need to write rules for changing classes if a non-Cleric attempts to cast a cult of dragon Klymavori spell.)
 
 ## Random Things
 
