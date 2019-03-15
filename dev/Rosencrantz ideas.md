@@ -4,15 +4,15 @@
 
 Magic is everywhere, but Arcane magic is organized locally, or at best, regionally. The chart-based spellcasters have a connection with Porta Nile (usually) or Pella's Column (rarely). The Salt Mages are strongly connected to Camalanth (over 99% of them) or Pella's Column (less than 1%). Penfro (in Camalanth) features the Cult of Hot Iron, a magical tradition that features walls, containers, and the use of goblin spitters. Summoners are based in Gaerleon (because of the gate magic). Hewcasters are based in Vinakrah. Broadhead has no Arcane Magic tradition because of the dominance of the temples there, but Damarell is believed to have a speed or horse or centaur based magic (unknown). Nagelor has dragon magic.
 
-| ARCANE MAGIC                        | Primary             | secondary         |
-| ----------------------------------- | ------------------- | ----------------- |
-| Rune Mage                           | Porta Nile          | Ragozine's Column |
-| Salt Mage                           | Camalanth (western) | Ragozine's Column |
-| Cult of Hot Iron (NPC magic system) | Camalanth (eastern) |                   |
-| Summoners                           | Gaerleon            |                   |
-| Hewcasters                          | Vinakrah            |                   |
-| Gate Magic                          | Helica              |                   |
-| Dragon Magic                        | Nagelor             |                   |
+| ARCANE MAGIC                        | Primary            | secondary         |
+| ----------------------------------- | ------------------ | ----------------- |
+| Rune Mage                           | Porta Nile         | Ragozine's Column |
+| Salt Mage                           | Urcheeka (western) | Ragozine's Column |
+| Cult of Hot Iron (NPC magic system) | Urcheeka (eastern) |                   |
+| Summoners                           | Collitair          |                   |
+| Hewcasters                          | Vinakrah           |                   |
+| Gate Magic                          | Junesal            |                   |
+| Dragon Magic                        | Tegrazem           |                   |
 
 ### Scrolls and Potions
 
