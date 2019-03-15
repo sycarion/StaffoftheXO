@@ -11,7 +11,7 @@ Magic is everywhere, but Arcane magic is organized locally, or at best, regional
 | Cult of Hot Iron | Camalanth (eastern) |                |
 | Summoners        | Gaerleon            |                |
 | Hewcasters       | Vinakrah            |                |
-| horse/centaur?   | Helica (eastern)    |                |
+| Gate Magic       | Helica              |                |
 | Dragon Magic     | Nagelor             |                |
 
 ### Scrolls and Potions
