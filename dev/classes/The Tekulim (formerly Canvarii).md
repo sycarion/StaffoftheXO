@@ -24,13 +24,13 @@ It did not last. Once again determined to pervert the magical arts, evil men lea
 
 Again invoking the gods, the Tekulim were provided with the Symbol of the Wolf. This sacred symbol, when presented to undead creatures would break the control of evil wizards and cause them to flee from the presence of the holy symbol.
 
-Lines of Tekulim priests turned away the armies and freed the undead to return to their eternal sleep. The Tekulim consider all wizards as vile heretics, yet they had saved mankind once again standing with the elves and other allies of man.
+Lines of Tekulim priests turned away the armies and freed the undead to return to their eternal sleep. The Tekulim consider all wizards as vile heretics, yet they had saved mankind once again standing with the allies of man.
 
 These ancient priests are dedicated to their traditions and gifts from the gods. They seek to protect manking and their allies from threats large and small. They know that when the world plunges into darkness, they will stand with the forces of light and fight.
 
 ### Game Data
 
-The Tekulim are played as a Cleric as written in Swords & Wizardry with very small changes. Slings are allowed and godstone sling bullets do 1d6 damage. Due to their weight, it is rare for anyone to carry more than four of these sling bullets at any time. Most of the time, Tekulim use them as valuable items to barter or gift to others. Tekulim can also use blunt hand-axe type weapons they call "wedges". They do 1d6 damage.
+The Tekulim are played as a Cleric as written in Swords & Wizardry with very small changes. Slings are allowed and ellablat sling bullets do 1d6 damage. Due to their weight, it is rare for anyone to carry more than four of these sling bullets at any time. Most of the time, Tekulim use them as valuable items to barter or gift to others. Tekulim can also use blunt hand-axe type weapons they call "wedges". They do 1d6 damage.
 
 Chainmail made from godstone provides the same protection as plate mail as well as having the same effect on encumbrance.
 
