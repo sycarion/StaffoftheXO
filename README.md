@@ -1,5 +1,5 @@
-# Project Rosencrantz
-Project Rosencrantz will be a repository of markdown files for an RPG setting. Fiction for the setting will written as a lexicographical novel as three dictionaries created by adherents to the three forms of deities and compiled by a librarian half a world away.
+# The Staff of the eXo
+The Staff of the eXo will be a repository of markdown files for an RPG setting. Fiction for the setting will written as a lexicographical novel as three dictionaries created by adherents to the three forms of deities and compiled by a librarian half a world away.
 
 The setting takes place in a region still rebuilding after a recent war. Kingdoms in this region struggle to rebuild and hold their power. Coffee and salt are the currencies of the region. Those merchants that control the trade of coffee can hold sway over kingdoms near and far.
 
