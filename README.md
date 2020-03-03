@@ -9,9 +9,9 @@ An isolated northern kingdom has opened a single port for the first time in over
 
 Survivors from a large island occupied by horrific crabmen are beginning to appear on the mainland. They bring tales of strange magic and desperate enclaves seeking to overthrow their oppressors.
 
-Due to the many fronts the war eventually opened, magic is regional and not completely reliable. There is not one grand tradition, but five smaller ones. Each magical traditional is different from the others. Salt mages employ the five salts while Hewcasters steal quintessence to warp their own bodies and gain supernatural powers. To the east, a handful of honor-bound mages use firearms invented during the war to defend their towns from the ghastly creatures numerous and bizarre. Dragon magic is used my wizards in the southern kingdom while Rune Mages scrabble together the discard magic items of their oppressors to overthrow them.
+Due to the many fronts the war eventually opened, magic is regional and not completely reliable. There is not one grand tradition, but five smaller ones. Each magical traditional is different from the others. Salt mages employ the five salts while Hewcasters steal quintessence to warp their own bodies and gain supernatural powers. To the east, a handful of honor-bound mages use firearms invented during the war to defend their towns from ghastly creatures numerous and bizarre. Dragon magic is used by wizards in the southern kingdom while Rune Mages scrabble together the discarded magic items of their oppressors to overthrow them.
 
-Massive temples dominate the major cities features the eleven main deities and the divine eXo. Little is known about the divine eXo, but it is believed that it serves as an overseer to the deities in punishment for the murder of their father. Every temple has a room dedicated to the slain progenitor god as well as a small statue dedicated to "an unknown god". All sentient peoples stake a claim to either a god or a titan as their creator. No sentient people claim the divine eXo: such an idea is quickly destroyed by priests.
+Massive temples dominate the major cities features the eleven main deities and the divine eXo. Little is known about the divine eXo, but it is believed that they serve as an overseer of the deities in punishment for the murder of their father. Every temple has a room dedicated to the slain progenitor god as well as a small statue dedicated to "an unknown god". All sentient peoples stake a claim to either a god or a titan as their creator. No sentient people claim the divine eXo: such an idea is quickly destroyed by priests.
 
 In every town and city, small barracks-like buildings house the universally trusted Tekulim, a group of paladins that serve no deity, but appear in times of great need. They did not fight in the war, but are believed to have brought about its end. The Tekulim are noted for their stone armor and weapons made from what they call godstone. This stone can only be made by the Tekulim, but sling stones and bucklers made from it are sold publicly as a source of income.
 
@@ -26,7 +26,7 @@ All this and more are featured in this setting. Stay tuned for updates.
 <!--This setting will be placed by a great sea and feature multiple magic traditions, non-humans that are not inspired by the works of J.R.R. Tolkien, and coffee.-->
 
 ## What RPG will is the setting based on?
-The master branch will be based on the Swords & Wizardry Complete rules, available for free at this site:
+The master branch will be based on the fifth edition of Dungeons & Dragons, available for free at this site:
 https://froggodgames.com/frogs/product/swords-wizardry-complete-rulebook/ 
 
 ### Will this be written for other systems?
