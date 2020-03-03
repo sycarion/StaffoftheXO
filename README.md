@@ -5,7 +5,7 @@ The setting takes place in a region still rebuilding after a recent war. Kingdom
 
 The treaty to end the war revived an ancient kingdom as a buffer region between the two primary combatants. This weak kingdom seeks to claim their heritage as a gateway to travel to lands near and far.
 
-An isolated northern kingdom has opened a single port for the first time in over 100 years. The byzantine port city features roads that seem to always lead back to the docks. Attempts at establishing a land route have failed.
+An isolated northern kingdom has opened a single port for the first time in over 100 years. The byzantine port city features roads that seem to always lead back to the docks. Attempts to establish a land route have failed.
 
 Survivors from a large island occupied by horrific crabmen are beginning to appear on the mainland. They bring tales of strange magic and desperate enclaves seeking to overthrow their oppressors.
 
