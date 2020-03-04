@@ -26,7 +26,7 @@ All this and more are featured in this setting. Stay tuned for updates.
 <!--This setting will be placed by a great sea and feature multiple magic traditions, non-humans that are not inspired by the works of J.R.R. Tolkien, and coffee.-->
 
 ## What RPG will is the setting based on?
-The master branch will be based on the fifth edition of Dungeons & Dragons, available for free at this site:
+The master branch will be based on the Swords & Wizardry Complete, available for free at this site:
 https://froggodgames.com/frogs/product/swords-wizardry-complete-rulebook/ 
 
 ### Will this be written for other systems?
