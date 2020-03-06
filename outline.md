@@ -1,5 +1,7 @@
 # Staff of the eXo
 
+[TOC]
+
 ## Character Creation
 
 roll 3d6 in order! (just kidding)
