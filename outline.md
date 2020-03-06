@@ -2,6 +2,10 @@
 
 [TOC]
 
+## Preface
+
+The outline leans on an idea posted by M.T. Black about a good table of contents for a 5e setting based on Ravnica and Eberron. I have adapted it for my kids campaign world.
+
 ## Character Creation
 
 roll 3d6 in order! (just kidding)
@@ -12,7 +16,9 @@ roll 3d6 in order! (just kidding)
 
 ### Classes
 
-### Names
+### Deities
+
+### Emissaries
 
 ## Region Description
 
