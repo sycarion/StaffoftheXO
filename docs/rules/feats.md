@@ -10,7 +10,7 @@ You've developed the skills necessary to hold your own in close-quarters grappli
 * You have advantage on attack rolls against a creature you are grappling.
 * You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-## Haggle 
+## Haggler
 
 **Prerequisite:** None    
 You are adept at negotiating a trade deal to your advantage. You gain the following benefits:
