@@ -17,7 +17,7 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 | 5 gp    | 1 lb. of silver or 1 sq. yd. of linen             |
 | 10 gp   | 1 sq. yd. of silk or one cow                      |
 | 15 gp   | 1 lb. of saffron or one ox                        |
-| 20 gp   | 1 lb. or refined blue salt                        |
+| 20 gp   | 1 lb. or refined blue, red, or green salt         |
 | 50 gp   | 1 lb. of gold                                     |
 | 500 gp  | 1 lb. of platinum                                 |
 | 1000 gp | 1 lb. of refined black salt                       |
