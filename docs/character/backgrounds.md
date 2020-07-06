@@ -72,8 +72,8 @@ Acolytes are shaped by their experience in temples or other religious communitie
 
 ## Come-Heres 
 
-You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric - performing sacred rites is not the same thing as channeling divine power.    
-Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy--Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny. 
+You arrived in a strange world that is a mixture of familiar and frightening. You have had to learn a new language and find solace from fellow citizens of a lost world named the Far Horizon.  
+xxx. 
 
 **Skill Proficiencies:** 
 **Languages:** Far Horizon, Common 
@@ -124,3 +124,58 @@ Come-Heres are shaped by their experiences in a world alien to everyone they kno
 | 4    |                                                              |
 | 5    |                                                              |
 | 6    |                                                              |
+
+## Born-Heres 
+
+Your ancestors arrived in this world, but it is the only one you have ever known. Relatives talk about loved ones and memories from the Far Horizon, but you have no ties there. You are, however, born from an Far Horizon ancestry that makes you stand out in the world around you. 
+xxx. 
+
+**Skill Proficiencies:** 
+**Languages:** Common and one other, including Far Horizon. 
+**Equipment:** An heirloom from the Far Horizon. Other things. 
+
+### Feature:  
+
+Fill in information here.  
+
+### Suggested Characteristics 
+
+Come-Heres are shaped by their experiences in a world alien to everyone they know now and the desire to go home. Their research into various gates and portals drives them to search the world for a way home.
+
+| d8   | Personality Trait            |
+| ---- | ---------------------------- |
+| 1    | Flexible in any environment. |
+| 2    |                              |
+| 3    |                              |
+| 4    |                              |
+| 5    |                              |
+| 6    |                              |
+| 7    |                              |
+| 8    |                              |
+
+| d6   | Ideal |
+| ---- | ----- |
+| 1    |       |
+| 2    |       |
+| 3    |       |
+| 4    |       |
+| 5    |       |
+| 6    |       |
+
+| d6   | Bond |
+| ---- | ---- |
+| 1    |      |
+| 2    |      |
+| 3    |      |
+| 4    |      |
+| 5    |      |
+| 6    |      |
+
+| d6   | Flaw |
+| ---- | ---- |
+| 1    |      |
+| 2    |      |
+| 3    |      |
+| 4    |      |
+| 5    |      |
+| 6    |      |
