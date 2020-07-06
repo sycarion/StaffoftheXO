@@ -1,6 +1,6 @@
 name: Plane Shift
 level: 7
-school: conjuration
+school: teleportation
 classes: cleric
          sorcerer
          warlock
