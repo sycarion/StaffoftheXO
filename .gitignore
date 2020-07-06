@@ -8,3 +8,4 @@ docs/gamemaster_rules/monster_indexes
 __pycache__
 *.pyc
 .venv
+*.sh
