@@ -69,3 +69,58 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 4  | I am inflexible in my thinking.                                                               |
 | 5  | I am suspicious of strangers and expect the worst of them.                                    |
 | 6  | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |
+
+## Come-Heres 
+
+You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric - performing sacred rites is not the same thing as channeling divine power.    
+Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy--Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny. 
+
+**Skill Proficiencies:** 
+**Languages:** Far Horizon, Common 
+**Equipment:** Items from the Far Horizon including: a memento, a broken weapon or armor of Far Horizon craftsmanship, and a pouch of Far Horizon coins would only the materials that are made from. 
+
+### Feature:  
+
+Fill in information here.  
+
+### Suggested Characteristics 
+
+Come-Heres are shaped by their experiences in a world alien to everyone they know now and the desire to go home. Their research into various gates and portals drives them to search the world for a way home.
+
+| d8   | Personality Trait |
+| ---- | ----------------- |
+| 1    |                   |
+| 2    |                   |
+| 3    |                   |
+| 4    |                   |
+| 5    |                   |
+| 6    |                   |
+| 7    |                   |
+| 8    |                   |
+
+| d6   | Ideal |
+| ---- | ----- |
+| 1    |       |
+| 2    |       |
+| 3    |       |
+| 4    |       |
+| 5    |       |
+| 6    |       |
+
+| d6   | Bond |
+| ---- | ---- |
+| 1    |      |
+| 2    |      |
+| 3    |      |
+| 4    |      |
+| 5    |      |
+| 6    |      |
+
+| d6   | Flaw                                                         |
+| ---- | ------------------------------------------------------------ |
+| 1    | I do not form deep relationships because of an ardent belief that I will return home soon. |
+| 2    |                                                              |
+| 3    |                                                              |
+| 4    |                                                              |
+| 5    |                                                              |
+| 6    |                                                              |
