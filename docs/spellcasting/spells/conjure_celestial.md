@@ -1,6 +1,6 @@
 name: Conjure Celestial
 level: 7
-school: conjuration
+school: Summon
 classes: cleric
 
 # Conjure Celestial 
