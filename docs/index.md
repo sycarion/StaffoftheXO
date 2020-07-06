@@ -19,7 +19,7 @@
 | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------- | ------------------------------------------ |
 |                                                              | [Barbarian](/character/classes/barbarian.md) | [Dragonborn](/character/kith/dragonborn.md) | [Dragonborn](/character/kin/dragonborn.md) |
 | [Backgrounds](/character/backgrounds.md)                     | [Bard](/character/classes/bard.md)           | [Dwarf](/character/races/dwarf.md)          |                                            |
-| [Fantasy-Historical Pantheons](/character/fantasy-historical_pantheons.md) | [Cleric](/character/classes/cleric.md)       | [Elf](/character/races/elf.md)              |                                            |
+| [The Hendenciad](/character/Hendenciad.md) | [Cleric](/character/classes/cleric.md)       | [Elf](/character/races/elf.md)              |                                            |
 | [Languages](/character/languages.md)                         | [Druid](/character/classes/druid.md)         | [Gnome](/character/races/gnome.md)          |                                            |
 |                                                              | [Fighter](/character/classes/fighter.md)     | [Half-Elf](/character/races/half-elf.md)    |                                            |
 |                                                              | [Monk](/character/classes/monk.md)           | [Half-Orc](/character/races/half-orc.md)    |                                            |
