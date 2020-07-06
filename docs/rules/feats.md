@@ -21,7 +21,7 @@ You are adept at negotiating a trade deal to your advantage. You gain the follow
 ## Salt Refiner
 
 **Prerequisite:** Wisdom 13 or higher    
-You are Proficient in refining mined salt and proficient with alchemist tools. You gain the following benefits:
+You are Proficient in refining mined salt and proficient with Artisan's Tools (Alchemy). You gain the following benefits:
 
 * You are proficient with alchemists tools.
 * You gain double proficiency when attempting to refine mined salt.
