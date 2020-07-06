@@ -1,6 +1,6 @@
 name: Misty Step
 level: 2
-school: conjuration
+school: teleportation
 classes: sorcerer
          warlock
          wizard
