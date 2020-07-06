@@ -1,6 +1,6 @@
 name: Find Familiar
 level: 1
-school: conjuration
+school: summon
 classes: wizard
 
 # Find Familiar 
