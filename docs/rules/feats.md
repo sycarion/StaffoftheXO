@@ -18,7 +18,7 @@ You are adept at negotiating a trade deal to your advantage. You gain the follow
 * You have advantage on Charisma (Persuasion) checks when trying to bargain or trade with another sentient creature. The amount of benefit ranges to 1.5 times to 3 times the standard value (in gp).
 * Regardless of circumstances, you always have 2 gp or an item worth 2 gp with you.
 
-## Gatzari
+## Salt Refiner
 
 **Prerequisite:** Wisdom 13 or higher    
 You are Proficient in refining mined salt and proficient with alchemist tools. You gain the following benefits:
