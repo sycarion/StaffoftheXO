@@ -1,6 +1,6 @@
 name: Gate
 level: 9
-school: conjuration
+school: teleportation
 classes: cleric
          sorcerer
          wizard
