@@ -1,6 +1,6 @@
 name: Guardian of Faith
 level: 4
-school: conjuration
+school: summon
 classes: cleric
 
 # Guardian of Faith 
