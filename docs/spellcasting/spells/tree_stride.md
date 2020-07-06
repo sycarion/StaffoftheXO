@@ -1,6 +1,6 @@
 name: Tree Stride
 level: 5
-school: conjuration
+school: teleportation
 classes: druid
          ranger
 
