@@ -40,7 +40,7 @@
 
 ### Rules
 | Rules                                                        | Rules - Abilities                                    |
-| ------------------------------------------------------------ | ---------------------------------------------------- |
+| ------------------------------------------------------------ | :--------------------------------------------------- |
 | [Advantage and Disadvantage](/rules/advantage_and_disadvantage.md) | [Ability Checks](/rules/abilities/ability_checks.md) |
 | [Conditions](/rules/conditions.md)                           | [Ability Scores](/rules/abilities/ability_scores.md) |
 | [Expenses](/rules/expenses.md)                               | [Saving Throws](/rules/abilities/saving_throws.md)   |
