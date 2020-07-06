@@ -14,4 +14,4 @@ A Wisdom check might reflect an effort to read body language, understand someone
 * Discern whether a seemingly dead or living creature is undead 
 
 ## Spellcasting Ability 
-Clerics, druids, and rangers use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Clerics, Druids, and Rangers use Wisdom as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
