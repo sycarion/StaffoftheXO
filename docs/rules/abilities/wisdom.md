@@ -2,7 +2,9 @@
 Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition. 
 
 ## Wisdom Checks
-A Wisdom check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.    
+A Wisdom check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.
+
+**Alchemy.** A Wisdom (Alchemy) check allows you to create refine mined salt, create potions, or attempt to transmute materials.
 **Animal Handling.** When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions, the GM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver.    
 **Insight.** Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.    
 **Medicine.** A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.   
