@@ -17,7 +17,7 @@
 ### Character
 | Basic Character Rules                                        | Character - Classes                          | Character - Kith                             | Character - Kin                              |
 | ------------------------------------------------------------ | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [Alignment](/character/alignment.md)                         | [Barbarian](/character/classes/barbarian.md) | [Dragonborn](/character/ancestry/dragonborn.md) | [Dragonborn](/character/culture/dragonborn.md) |
+| [Alignment](/character/alignment.md)                         | [Barbarian](/character/classes/barbarian.md) | [Dragonborn](/character/kith/dragonborn.md) | [Dragonborn](/character/kin/dragonborn.md) |
 | [Backgrounds](/character/backgrounds.md)                     | [Bard](/character/classes/bard.md)           | [Dwarf](/character/races/dwarf.md)           |                                              |
 | [Fantasy-Historical Pantheons](/character/fantasy-historical_pantheons.md) | [Cleric](/character/classes/cleric.md)       | [Elf](/character/races/elf.md)               |                                              |
 | [Languages](/character/languages.md)                         | [Druid](/character/classes/druid.md)         | [Gnome](/character/races/gnome.md)           |                                              |
