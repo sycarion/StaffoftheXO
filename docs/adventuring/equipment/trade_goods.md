@@ -4,10 +4,10 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 
 ## Trade Goods table
 | Cost   | Goods                                        |
-|--------|----------------------------------------------|
+| ------ | -------------------------------------------- |
 | 1 cp   | 1 lb. of wheat                               |
 | 2 cp   | 1 lb. of flour or one chicken                |
-| 5 cp   | 1 lb. of salt                                |
+| 5 cp   | 1 lb. of sea salt                            |
 | 1 sp   | 1 lb. of iron or 1 sq. yd. of canvas         |
 | 5 sp   | 1 lb. of copper of 1 sq. yd. of cotton cloth |
 | 1 gp   | 1 lb. of ginger or one goat                  |
@@ -17,4 +17,5 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 | 10 gp  | 1 sq. yd. of silk or one cow                 |
 | 15 gp  | 1 lb. of saffron or one ox                   |
 | 50 gp  | 1 lb. of gold                                |
+| 100 gp | 1 lb. of mined salt                          |
 | 500 gp | 1 lb. of platinum                            |
