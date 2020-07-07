@@ -2,7 +2,7 @@ site_name: Staff of the eXo
 repo_url: https://github.com/sycarion/StaffoftheXO
 copyright: Rules based on version 5.1 edition of the SRD under the <a href="/license">OGL 1.0a</a>.
 site_description: A web-based version of my homebrew setting.
-#google_analytics: ["UA-72655850-1", '5thsrd.org']
+google_analytics: ["UA-72655850-1", '5thsrd.org']
 theme:
   name: null
   color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
