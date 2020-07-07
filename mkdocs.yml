@@ -9,4 +9,4 @@ theme:
   custom_dir: Ommtala
 plugins: []
 extra:
-  enable_ads: yes
+  enable_ads: no
