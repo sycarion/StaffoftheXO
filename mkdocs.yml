@@ -1,12 +1,12 @@
-site_name: Staff of the eXo
-repo_url: https://github.com/sycarion/StaffoftheXO
-copyright: Rules based on version 5.1 edition of the SRD under the <a href="/license">OGL 1.0a</a>.
-site_description: A web-based version of my homebrew setting.
+site_name: 5th Edition SRD
+repo_url: https://github.com/vitusventure/5thSRD
+copyright: Rules provided by Wizards of the Coast under the <a href="/license">OGL 1.0a</a>.
+site_description: A web-based version of the 5th Edition SRD (System Reference Document)
 google_analytics: ["UA-72655850-1", '5thsrd.org']
 theme:
   name: null
   color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
-  custom_dir: Ommtala
+  custom_dir: 5thsrd_theme
 plugins: []
 extra:
-  enable_ads: no
+  enable_ads: yes
