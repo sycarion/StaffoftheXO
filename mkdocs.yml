@@ -1,5 +1,2 @@
 site_name: Staff of the eXo
-theme:
-  name: 5thsrd_theme
-  color: "rgb(216, 25, 33)" # Match with @brand-primary in variables.less
-  custom_dir: 5thsrd_theme
+
