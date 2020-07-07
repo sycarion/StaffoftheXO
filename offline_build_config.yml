@@ -2,7 +2,7 @@ site_name: Staff of the eXo
 copyright: Rules based on version 5.1 edition of the SRD under the <a href="/license">OGL 1.0a</a>.
 site_description: A web-based version of the 5th Edition Dungeons and Dragons SRD (System Reference Document)
 theme_dir: Ommtala
-site_dir: site
+site_dir: Ommtala_offline
 use_directory_urls: false
 plugins: []
 extra:
