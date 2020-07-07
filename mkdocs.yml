@@ -9,4 +9,4 @@ theme:
   custom_dir: 5thsrd_theme
 plugins: []
 extra:
-  enable_ads: yes
+  enable_ads: no
