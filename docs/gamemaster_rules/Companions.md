@@ -31,7 +31,7 @@ _1^st^ level Medium humanoid (any ancestry)_
 **Senses** passive Perception 12    
 **Languages** any one language (usually Common)    
 
-**Magic Tradition.** Choose a magical tradition for the disciple. This will determine which spellcasting ability the companion will have.
+**Magic Tradition.** Choose a magical tradition for the disciple. This will determine which spellcasting ability the companion possesses.
 
 **Spellcasting (Divine).** The disciple's spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The disciple has following cleric spells prepared:    
 Cantrips (at will): **_light, sacred flame, thaumaturgy_**    
