@@ -15,7 +15,7 @@ Companions are a type of character that joins the player character(s). Often, th
 ## Adding Companions 
 Stats for companions are provided as a way to begin play quickly. If the players want to customize their companions, skip to the Customing Companions section.
 
-#### Disciple 
+#### Disciple (Copied from Acolyte with ability bonuses)
 
 _1^st^ level Medium humanoid (any ancestry)_
 
