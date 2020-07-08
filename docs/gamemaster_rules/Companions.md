@@ -44,6 +44,6 @@ Cantrips (at will): **_light, sacred flame, thaumaturgy_**
 ### Customizing Companions
 
 **Ancestral Traits.** You can add ancestral traits to a companion. For example, ~~a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn't alter its challenge rating. For more on racial traits, see the Player's Handbook.~~    
-**Favored Spells.** Instead of the generic abilties listed, add a spell that a disciple may prefer to cast.  
+**Favored Spells.** Instead of the spells listed, add a spell that a disciple may prefer to cast.  
 **Armor and Weapon Swaps.** You can upgrade or downgrade a companion's armor, or switch weapons.  Remember to make adjustments to Armor Class and damage before play.    
 **Magic Items.** As the characters gain experience, feel free to provide a magic item to a companion. If the gamemaster agrees, the companion could even begin with a powerful magic item. For example, the companion could be a very experienced swordsman that carries a magical blade. Bonus if it is a cursed blade. See cursed items in the equipment section. (Remember that cursed items provide a benefit and a drawback.)
