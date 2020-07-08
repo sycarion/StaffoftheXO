@@ -13,7 +13,7 @@ Companions are a type of character that joins the player character(s). Often, th
 **Specialist:** A specialist is adept with one or more non-magical skills or tools. They also have some martial training.
 
 ## Adding Companions 
-Stats for companions are provided as a way to begin play quickly. If the players want to customize their companions, skip to the Customing Companions section.
+Stats for companions are provided as a way to begin play quickly. If the players want to customize their companions, skip to the Customizing Companions section.
 
 #### Disciple (Copied from Acolyte with ability bonuses)
 
