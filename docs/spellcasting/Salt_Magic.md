@@ -23,13 +23,15 @@ There are also a few salt combinations that provide access to magic that is uniq
 
 | Color  | Source Colors | Theme                         |
 | ------ | ------------- | ----------------------------- |
-| Orange | Red + Yellow  | Dragon Magic                  |
-| Purple | Red + Blue    | Link Magic^2^                 |
+| Orange | Red + Yellow  | Dragon Magic^2^               |
+| Purple | Red + Blue    | Link Magic^3^                 |
 | Pink   | Red + White   | Enchantment / Piercing        |
 | Green  | Blue + Yellow | Plants / Poison               |
 | Gray   | Black + White | Metal / Bludgeoning, Slashing |
 
-^2^ *Linking magic melds two things together like fire to a sword or invisibility to a cloak.*
+^2^ *Dragon magic deals with draconic characteristics. These include breath weapons, flight, awe, transformation, and summoning. In Ommtala, dragons summon minions to defend them, carry out their schemes, or gather information. They also change forms to prevent recognition.*
+
+^3^ *Linking magic melds two things together like fire to a sword or invisibility to a cloak.*
 
 Other combinations are possible, but do not generate secondary magic access.
 
@@ -44,8 +46,3 @@ Altogether, there are 13 *schools* of Salt Magic.
 
 My favorite so far is Orange.
 
-Dragon magic deals with draconic characteristics. Breath weapons, sure, but also flight, awe, transformation, and summoning. 
-
-In Ommtala, dragons summon minions to defend them, carry out their schemes, or gather information.
-
-They also change forms to prevent recognition.
