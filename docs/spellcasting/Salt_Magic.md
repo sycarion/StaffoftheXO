@@ -44,5 +44,3 @@ There are also two very powerful combinations of three salts, Gold and Silver.
 
 Altogether, there are 13 *schools* of Salt Magic.
 
-My favorite so far is Orange.
-
