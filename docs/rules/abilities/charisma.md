@@ -13,4 +13,4 @@ A Charisma check might arise when you try to influence or entertain others, when
 * Blend into a crowd to get the sense of key topics of conversation 
 
 ## Spellcasting Ability
-Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Bards, Paladins, Sorcerers, and Warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.

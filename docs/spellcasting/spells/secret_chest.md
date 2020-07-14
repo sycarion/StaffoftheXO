@@ -1,6 +1,6 @@
 name: Secret Chest
 level: 4
-school: conjuration
+school: teleportation
 classes: wizard
 
 # Secret Chest 

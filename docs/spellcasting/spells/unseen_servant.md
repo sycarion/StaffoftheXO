@@ -1,6 +1,6 @@
 name: Unseen Servant
 level: 1
-school: conjuration
+school: summon
 classes: bard
          warlock
          wizard

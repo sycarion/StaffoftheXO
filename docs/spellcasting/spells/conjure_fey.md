@@ -1,6 +1,6 @@
 name: Conjure Fey
 level: 6
-school: conjuration
+school: summon
 classes: druid
          warlock
 

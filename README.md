@@ -19,13 +19,13 @@ Awakened dolphins serve as emissaries from the sea god. Their appearance is cons
 
 The Dadkasun exist as shapeshifters able to assume any humanoid form. They have been exiled from civilization due to their work as spies during the war. The Dadkasun no longer appear in their true form, but make their way posing as humans, taking whatever jobs they can.
 
-Ragozine's Column, a large island west of the mainland, is home to several refugees from the Western Continent. They call themselves the fey. They will tell anyone that will listen about their struggle to return to their homeland. Any ships that attempt to sail west to this continent are never heard from again. Many would believe that land to be a myth were it not for their strange appearance. Human refugees pray to strange gods that do not hear them.
+Ragozine's Column, a large island west of the mainland, is home to several refugees from the Far Horizon. They call themselves the Come-Heres. They will tell anyone that will listen about their struggle to return to their homeland. Any ships that attempt to sail west to this continent are never heard from again. Many would believe that land to be a myth were it not for their strange magic and other items. Human refugees pray to strange gods that do not hear them.
 
 All this and more are featured in this setting. Stay tuned for updates.
 
 <!--This setting will be placed by a great sea and feature multiple magic traditions, non-humans that are not inspired by the works of J.R.R. Tolkien, and coffee.-->
 
-## What RPG will is the setting based on?
+## What RPG is the setting based on?
 The master branch will be based on the fifth edition of Dungeons & Dragons SRD. I am using markdown based on the files found at https://github.com/vitusventure/5thSRD
 
 ### Will this be written for other systems?

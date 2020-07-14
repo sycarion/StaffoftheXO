@@ -9,3 +9,19 @@ You've developed the skills necessary to hold your own in close-quarters grappli
 
 * You have advantage on attack rolls against a creature you are grappling.
 * You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+
+## Haggler
+
+**Prerequisite:** None    
+You are adept at negotiating a trade deal to your advantage. You gain the following benefits:
+
+* You have advantage on Charisma (Persuasion) checks when trying to bargain or trade with another sentient creature. The amount of benefit ranges to 1.5 times to 3 times the standard value (in gp).
+* Regardless of circumstances, you always have 2 gp or an item worth 2 gp with you.
+
+## Salt Refiner
+
+**Prerequisite:** Wisdom 13 or higher    
+You are Proficient in refining mined salt and proficient with Artisan's Tools (Alchemy). You gain the following benefits:
+
+* You are proficient with alchemists tools.
+* You gain double proficiency when attempting to refine mined salt.

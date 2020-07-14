@@ -22,23 +22,23 @@ A monster's type speaks to its fundamental nature. Certain spells, magic items, 
 The game includes the following monster types, which have no rules of their own.    
 **Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature's alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, and slaadi.    
 **Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.    
-**Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.     
-**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.    
-**Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.    
-**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.    
-**Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.    
-**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.   
+~~**Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes~~. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include ~~angels~~, couatls, and pegasi.     
+**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures ~~native to the outer plane of Mechanus, such as modrons,~~ are constructs shaped from the raw material of the plane by the will of more powerful creatures.    
+**XXXDragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.    
+~~**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes.~~ ~~Other elemental creatures include~~ azers, invisible stalkers, and water weirds.    
+**XXXFey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. ~~Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands~~. Fey include dryads, pixies, and satyrs.    
+~~**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds~~, rakshasas, ~~and yugoloths~~.   
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.    
-**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.    
+**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are ~~the ones most suitable as~~ player characters: humans, dwarves, elves, and halflings. Almost as numerous ~~but far more savage and brutal, and almost uniformly evil~~, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.    
 **Monstrosities** are monsters in the strictest sense--frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs). They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.    
 **Oozes** are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. Black puddings and gelatinous cubes are among the most recognizable oozes.    
 **Plants** in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures such as the gas spore and the myconid also fall into this category.    
-**Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters. 
+**Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, ~~as well as bodiless spirits, such as ghosts and specters~~. 
 
 ### Tags 
 A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the humanoid (orc) type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag. 
 
-## Alignment 
+## XXXAlignment (Disposition) 
 A monster's alignment provides a clue to its disposition and how it behaves in a roleplaying or combat situation. For example, a chaotic evil monster might be difficult to reason with and might attack characters on sight, whereas a neutral monster might be willing to negotiate.   
 The alignment specified in a monster's stat block is the default. Feel free to depart from it and change a monster's alignment to suit the needs of your campaign. If you want a good-aligned green dragon or an evil storm giant, there's nothing stopping you.    
 Some creatures can have **any alignment**. In other words, you choose the monster's alignment. Some monster's alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.    
@@ -172,40 +172,40 @@ The number of experience points (XP) a monster is worth is based on its challeng
 #### Experience Points by Challenge Rating
 | Challenge | XP      |
 |-----------|---------|
-| 0         | 0 or 10 |    
-| 1/8       | 25      |    
-| 1/4       | 50      |    
-| 1/2       | 100     |     
-| 1         | 200     |     
-| 2         | 450     |     
-| 3         | 700     |     
-| 4         | 1,100   |       
-| 5         | 1,800   |       
-| 6         | 2,300   |       
-| 7         | 2,900   |       
-| 8         | 3,900   |       
-| 9         | 5,000   |       
-| 10        | 5,900   |       
-| 11        | 7,200   |       
-| 12        | 8,400   |       
-| 13        | 10,000  |        
-| 14        | 11,500  |        
-| 15        | 13,000  |        
-| 16        | 15,000  |        
-| 17        | 18,000  |        
-| 18        | 20,000  |        
-| 19        | 22,000  |        
-| 20        | 25,000  |        
-| 21        | 33,000  |        
-| 22        | 41,000  |        
-| 23        | 50,000  |        
-| 24        | 62,000  |        
-| 25        | 75,000  |        
-| 26        | 90,000  |        
-| 27        | 150,000 |         
-| 28        | 120,000 |         
-| 29        | 135,000 |         
-| 30        | 155,000 |         
+| 0         | 0 or 10 |
+| 1/8       | 25      |
+| 1/4       | 50      |
+| 1/2       | 100     |
+| 1         | 200     |
+| 2         | 450     |
+| 3         | 700     |
+| 4         | 1,100   |
+| 5         | 1,800   |
+| 6         | 2,300   |
+| 7         | 2,900   |
+| 8         | 3,900   |
+| 9         | 5,000   |
+| 10        | 5,900   |
+| 11        | 7,200   |
+| 12        | 8,400   |
+| 13        | 10,000  |
+| 14        | 11,500  |
+| 15        | 13,000  |
+| 16        | 15,000  |
+| 17        | 18,000  |
+| 18        | 20,000  |
+| 19        | 22,000  |
+| 20        | 25,000  |
+| 21        | 33,000  |
+| 22        | 41,000  |
+| 23        | 50,000  |
+| 24        | 62,000  |
+| 25        | 75,000  |
+| 26        | 90,000  |
+| 27        | 150,000 |
+| 28        | 120,000 |
+| 29        | 135,000 |
+| 30        | 155,000 |
 
 ## Special Traits 
 Special traits (which appear after a monster's challenge rating but before any actions or reactions) are characteristics that are likely to be relevant in a combat encounter and that require some explanation. 

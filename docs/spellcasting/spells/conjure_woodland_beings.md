@@ -1,6 +1,6 @@
 name: Conjure Woodland Beings
 level: 4
-school: conjuration
+school: summon
 classes: druid
          ranger
 

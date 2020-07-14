@@ -69,3 +69,113 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 4  | I am inflexible in my thinking.                                                               |
 | 5  | I am suspicious of strangers and expect the worst of them.                                    |
 | 6  | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |
+
+## Come-Heres 
+
+You arrived in a strange world that is a mixture of familiar and frightening. You have had to learn a new language and find solace from fellow citizens of a lost world named the Far Horizon.  
+xxx. 
+
+**Skill Proficiencies:** 
+**Languages:** Far Horizon, Common 
+**Equipment:** Items from the Far Horizon including: a memento, a broken weapon or armor of Far Horizon craftsmanship, and a pouch of Far Horizon coins would only the materials that are made from. 
+
+### Feature:  
+
+Fill in information here.  
+
+### Suggested Characteristics 
+
+Come-Heres are shaped by their experiences in a world alien to everyone they know now and the desire to go home. Their research into various gates and portals drives them to search the world for a way home.
+
+| d8   | Personality Trait |
+| ---- | ----------------- |
+| 1    |                   |
+| 2    |                   |
+| 3    |                   |
+| 4    |                   |
+| 5    |                   |
+| 6    |                   |
+| 7    |                   |
+| 8    |                   |
+
+| d6   | Ideal |
+| ---- | ----- |
+| 1    |       |
+| 2    |       |
+| 3    |       |
+| 4    |       |
+| 5    |       |
+| 6    |       |
+
+| d6   | Bond |
+| ---- | ---- |
+| 1    |      |
+| 2    |      |
+| 3    |      |
+| 4    |      |
+| 5    |      |
+| 6    |      |
+
+| d6   | Flaw                                                         |
+| ---- | ------------------------------------------------------------ |
+| 1    | I do not form deep relationships because of an ardent belief that I will return home soon. |
+| 2    |                                                              |
+| 3    |                                                              |
+| 4    |                                                              |
+| 5    |                                                              |
+| 6    |                                                              |
+
+## Born-Heres 
+
+Your ancestors arrived in this world, but it is the only one you have ever known. Relatives talk about loved ones and memories from the Far Horizon, but you have no ties there. You are, however, born from an Far Horizon ancestry that makes you stand out in the world around you. 
+xxx. 
+
+**Skill Proficiencies:** 
+**Languages:** Common and one other, including Far Horizon. 
+**Equipment:** An heirloom from the Far Horizon. Other things. 
+
+### Feature:  
+
+Fill in information here.  
+
+### Suggested Characteristics 
+
+Come-Heres are shaped by their experiences in a world alien to everyone they know now and the desire to go home. Their research into various gates and portals drives them to search the world for a way home.
+
+| d8   | Personality Trait            |
+| ---- | ---------------------------- |
+| 1    | Flexible in any environment. |
+| 2    |                              |
+| 3    |                              |
+| 4    |                              |
+| 5    |                              |
+| 6    |                              |
+| 7    |                              |
+| 8    |                              |
+
+| d6   | Ideal |
+| ---- | ----- |
+| 1    |       |
+| 2    |       |
+| 3    |       |
+| 4    |       |
+| 5    |       |
+| 6    |       |
+
+| d6   | Bond |
+| ---- | ---- |
+| 1    |      |
+| 2    |      |
+| 3    |      |
+| 4    |      |
+| 5    |      |
+| 6    |      |
+
+| d6   | Flaw |
+| ---- | ---- |
+| 1    |      |
+| 2    |      |
+| 3    |      |
+| 4    |      |
+| 5    |      |
+| 6    |      |

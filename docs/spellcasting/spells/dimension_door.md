@@ -1,6 +1,6 @@
 name: Dimension Door
 level: 4
-school: conjuration
+school: teleportation
 classes: bard
          sorcerer
          warlock

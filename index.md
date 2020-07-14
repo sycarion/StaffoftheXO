@@ -39,17 +39,18 @@
 | [Making an Attack](/combat/making_an_attack.md)     | [Underwater Combat](/combat/underwater_combat.md)         |
 
 ### Rules
-| Rules                                                              | Rules - Abilities                                    |
-|--------------------------------------------------------------------|------------------------------------------------------|
+| Rules                                                        | Rules - Abilities                                    |
+| ------------------------------------------------------------ | :--------------------------------------------------- |
 | [Advantage and Disadvantage](/rules/advantage_and_disadvantage.md) | [Ability Checks](/rules/abilities/ability_checks.md) |
-| [Conditions](/rules/conditions.md)                                 | [Ability Scores](/rules/abilities/ability_scores.md) |
-| [Expenses](/rules/expenses.md)                                     | [Saving Throws](/rules/abilities/saving_throws.md)   |
-| [Feats](/rules/feats.md)                                           | [Charisma](/rules/abilities/charisma.md)             |
-| [Inspiration](/rules/inspiration.md)                               | [Constitution](/rules/abilities/constitution.md)     |
-| [Leveling Up](/rules/leveling_up.md)                               | [Dexterity](/rules/abilities/dexterity.md)           |
-| [Multiclassing](/rules/multiclassing.md)                           | [Intelligence](/rules/abilities/intelligence.md)     |
-| [Proficiency Bonus](/rules/proficiency_bonus.md)                   | [Strength](/rules/abilities/strength.md)             |
-|                                                                    | [Wisdom](/rules/abilities/wisdom.md)                 |
+| [Conditions](/rules/conditions.md)                           | [Ability Scores](/rules/abilities/ability_scores.md) |
+| [Expenses](/rules/expenses.md)                               | [Saving Throws](/rules/abilities/saving_throws.md)   |
+| [Feats](/rules/feats.md)                                     | [Skills](/rules/abilities/skills.md)                 |
+| [Inspiration](/rules/inspiration.md)                         | [Charisma](/rules/abilities/charisma.md)             |
+| [Leveling Up](/rules/leveling_up.md)                         | [Constitution](/rules/abilities/constitution.md)     |
+| [Multiclassing](/rules/multiclassing.md)                     | [Dexterity](/rules/abilities/dexterity.md)           |
+| [Proficiency Bonus](/rules/proficiency_bonus.md)             | [Intelligence](/rules/abilities/intelligence.md)     |
+|                                                              | [Strength](/rules/abilities/strength.md)             |
+|                                                              | [Wisdom](/rules/abilities/wisdom.md)                 |
 
 
 ### GM Rules

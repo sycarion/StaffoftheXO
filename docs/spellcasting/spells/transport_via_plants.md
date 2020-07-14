@@ -1,6 +1,6 @@
 name: Transport via Plants
 level: 6
-school: conjuration
+school: teleportation
 classes: druid
 
 # Transport via Plants 
