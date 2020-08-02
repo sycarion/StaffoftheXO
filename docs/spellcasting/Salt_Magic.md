@@ -21,17 +21,20 @@ Salt mages gain mastery of an individual salt one at a time. As they gain master
 
 There are also a few salt combinations that provide access to magic that is unique from its contributing colors.
 
-| Color  | Source Colors | Theme                         |
-| ------ | ------------- | ----------------------------- |
-| Orange | Red + Yellow  | Dragon Magic^2^               |
-| Purple | Red + Blue    | Link Magic^3^                 |
-| Pink   | Red + White   | Enchantment / Piercing        |
-| Green  | Blue + Yellow | Plants / Poison               |
-| Gray   | Black + White | Metal / Bludgeoning, Slashing |
+| Color   | Source Colors  | Theme                         |
+| ------- | -------------- | ----------------------------- |
+| Orange  | Red + Yellow   | Dragon Magic^2^               |
+| Purple  | Red + Blue     | Link Magic^3^                 |
+| Pink    | Red + White    | Enchantment / Piercing        |
+| Green   | Blue + Yellow  | Plants / Poison               |
+| Jasmine | Yellow + White | Restoration^4^                |
+| Gray    | Black + White  | Metal / Bludgeoning, Slashing |
 
 ^2^ *Dragon magic deals with draconic characteristics. These include breath weapons, flight, awe, transformation, and summoning. In Ommtala, dragons summon minions to defend them, carry out their schemes, or gather information. They also change forms to prevent recognition.*
 
 ^3^ *Linking magic melds two things together like fire to a sword or invisibility to a cloak.*
+
+^4^ *Restoration Magic is a lesser form of healing magic and is based on the Re-Forged Culture in More Ancestries & Cultures by Arcanist Press.*
 
 Other combinations are possible, but do not generate secondary magic access.
 
