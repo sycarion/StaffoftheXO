@@ -45,5 +45,5 @@ There are also two very powerful combinations of three salts, Gold and Silver.
 | Silver | Black + White + Blue   | Mind, Astral Travel, Pranic Travel / Psychic |
 | Gold   | Black + White + Yellow | Clockwork / Lightning                        |
 
-Altogether, there are 13 *schools* of Salt Magic.
+Altogether, there are 14 *schools* of Salt Magic.
 
