@@ -52,8 +52,16 @@ As a student of quintessence, you have a collection of oddments containing the e
 #### Cantrips 
 At 1st level, you know three cantrips of your choice from the hewcaster spell list. You learn additional hewcaster cantrips of your choice at higher levels, as shown in the Cantrips Known column of the hewcaster table. 
 
-#### Elixirs 
+#### Casting Spells 
 At 1st level, you have a collection of oddments to power  six 1st- level hewcaster spells of your choice. Your collection of oddments is the remnants of your mentor's hewstones to power the hewcaster spells you know, except your cantrips, which are fixed in your mind.
+
+#### Elixirs
+
+At 2nd level, you can use your knowledge of alchemy to make elixirs from hewstones. Making an elixir requires a catalyst to draw out a specific aspect of a quintessence. For example, you use a strength catalyst to draw strength from a hewstone containing the quintessence of a bear to create an elixir that grants the strength of a bear. You can make elixirs as long as you possess the necessary hewstones and catalysts. To make an elixir, the hewcaster must succeed on an Alchemy skill check with a DC of 15. Any catalyst in which you are proficient adds your proficiency bonus to the roll.
+
+#### Extract Essence
+
+Hewcasters can strip the quintessence of an object or creature that can be used later to create spells, potions or fantastic creatures. Successful use of this ability strips the target of its quintessence and places it into a flat, rectangular stone called a hewstone.
 
 #### Hewstones 
 
