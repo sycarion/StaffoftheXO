@@ -29,21 +29,6 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 | 3  | Hearing and normal vision out to 120 feet. |
 | 4  | Hearing and darkvision out to 120 feet.    |
 
-### Alignment 
-A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table. 
-
-| d100  | Alignment       |
-|-------|-----------------|
-| 01-15 | Lawful good     |
-| 16-35 | Neutral good    |
-| 36-50 | Chaotic good    |
-| 51-63 | Lawful neutral  |
-| 64-73 | Neutral         |
-| 74-85 | Chaotic neutral |
-| 86-89 | Lawful evil     |
-| 90-96 | Neutral evil    |
-| 97-00 | Chaotic evil    |
-
 ### Special Purpose 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table. 
 
