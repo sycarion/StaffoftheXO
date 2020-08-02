@@ -2,7 +2,7 @@
 
 One region has a roll 2d6 against a rune based on 'found' alien technology. 
 
-Another uses the 'five salts', each salt is like a school of magic. 
+Another uses the 'five salts', each salt is like a school of magic. Salts use usage dice to control supplies of the salts. Refining salt increases the die by 1 or 2. There is a magic item (the Exacter) that allows the die to go up 3 places to a max of d12, but only for one type of salt.
 
 A third uses a device to steal a bit of essence from a creature to make potions and spell-like effects. 
 
