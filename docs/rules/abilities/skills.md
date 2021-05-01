@@ -35,6 +35,8 @@ The skills related to each ability score are shown in the following list. (No sk
 11. Thievery
 12. Vehicle (Air/Land/Water)
 
+The above list comes from Scroll for Initiative
+
 ## Alchemy
 
 Alchemy is the skill that ties all magic systems together. It is used  extensively by Salt Mages. In general, though, all magic systems need an understanding of alchemy to create potions or magic items based on  their spell effects. The knowledge is what allows Rogues to transcribe  spells from one magic system to another: start with trying to create a  potion of it first, and then re-translate it into any spell system in  Ommtala.
