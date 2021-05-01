@@ -6,35 +6,24 @@ For example, a Dexterity check might reflect a character’s attempt to pull off
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability’s description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-### Strength
+1. Alchemy
+2. Arcana
+3. Athletics
+4. Craft
+5. Nature
+6. Perform
+7. Planes Lore
+8. Society
+9. Speechcraft
+10. Stealth
+11. Thievery
+12. Vehicle (Air/Land/Water)
 
-- Athletics
+## Alchemy
 
-### Dexterity
+Alchemy is the skill that ties all magic systems together. It is used  extensively by Salt Mages. In general, though, all magic systems need an understanding of alchemy to create potions or magic items based on  their spell effects. The knowledge is what allows Rogues to transcribe  spells from one magic system to another: start with trying to create a  potion of it first, and then re-translate it into any spell system in  Ommtala.
 
-- Acrobatics
-- Sleight of Hand
-- Stealth
+This also makes spellcasting a skill roll.
 
-### Intelligence
+## Arcana
 
-- Arcana
-- History
-- Investigation
-- Nature
-- Religion
-
-### Wisdom
-
-- Animal Handling
-- Insight
-- Medicine
-- Perception
-- Survival
-
-### Charisma
-
-- Deception
-- Intimidation
-- Performance
-- Persuasion
