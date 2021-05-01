@@ -2,7 +2,7 @@
 
 I want to make an Attributes - Feats - Skills - Class comparison
 
-**Feat:** A feat represents a talent or an area o f expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides. (PHB)
+**Feat:** A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides. (PHB)
 
 **Skill:** Skills represent some of the most basic and yet most fundamental  abilities your character possesses. As your character advances in level, he can gain new skills and improve his existing skills dramatically. (PF1e SRD)
 
