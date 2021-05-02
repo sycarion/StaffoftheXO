@@ -16,6 +16,10 @@ I want to make an Attributes - Feats - Skills - Class comparison
 
 **Ability Scores/Attributes:** A quick description of physical and mental characteristics.
 
+When players encounter an obstacle or want to try something in DnD they often need to make an ability check. For 5e skills, this means rolling a d20 and adding the player’s skill modifier. If the player is proficient in a skill they also get to add their proficiency modifier. Proficiency essentially means you have training in this skill. (Masterthedungeon.com)
+
+---
+
 Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block.)
 
 For example, a Dexterity check might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
