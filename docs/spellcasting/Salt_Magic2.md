@@ -6,14 +6,14 @@ Each salt is associated with its color. Raw mined salt is dubbed Brown Salt.
 
 Each salt is also associated with a loose theme of magic and/or energy type.
 
-| Color  | Taste      | Theme                      |
-| ------ | ---------- | -------------------------- |
-| Red    | bitter     | / Fire                     |
-| Blue   | sweet      | Water, Sky / Thunder       |
-| Yellow | sour       | Purification / Acid        |
-| White  | saline     | Preservation, Death / Cold |
-| Black  | umami      | Hew^1^                     |
-| Raw    | it's awful | Earth / Force Energy       |
+| Color  | Taste      | Theme                           |
+| ------ | ---------- | ------------------------------- |
+| Red    | bitter     | Modify (objects)                |
+| Blue   | sweet      | Illusion                        |
+| Yellow | sour       | Fate                            |
+| White  | saline     | Protection                      |
+| Black  | umami      | Destruction                     |
+| Raw    | it's awful | Telekinesis / Dispel Salt Magic |
 
 ^1^ *Hew magic separates abilities, memories, or skills away for one or more targets. The target can be anything.*
 
@@ -45,5 +45,5 @@ There are also two very powerful combinations of three salts, Gold and Silver.
 | Silver | Black + White + Blue   | Mind, Astral Travel, Pranic Travel / Psychic |
 | Gold   | Black + White + Yellow | Clockwork / Lightning                        |
 
-Altogether, there are 14 *schools* of Salt Magic.
+Altogether, there are 17 *schools* of Salt Magic.
 
