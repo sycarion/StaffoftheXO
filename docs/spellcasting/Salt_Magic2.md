@@ -15,35 +15,36 @@ Each salt is also associated with a loose theme of magic and/or energy type.
 | Black  | umami      | Destruction                     |
 | Raw    | it's awful | Telekinesis / Dispel Salt Magic |
 
-^1^ *Hew magic separates abilities, memories, or skills away for one or more targets. The target can be anything.*
-
 Salt mages gain mastery of an individual salt one at a time. As they gain mastery of another salt, new magics become available 
 
-There are also a few salt combinations that provide access to magic that is unique from its contributing colors.
+There are ten salt combinations that provide access to magic that is unique from its contributing colors.
 
-| Color   | Source Colors  | Theme                         |
-| ------- | -------------- | ----------------------------- |
-| Orange  | Red + Yellow   | Dragon Magic^2^               |
-| Purple  | Red + Blue     | Link Magic^3^                 |
-| Pink    | Red + White    | Enchantment / Piercing        |
-| Green   | Blue + Yellow  | Plants / Poison               |
-| Jasmine | Yellow + White | Restoration^4^                |
-| Gray    | Black + White  | Metal / Bludgeoning, Slashing |
+| Color    | Source Colors  | Theme                        |
+| -------- | -------------- | ---------------------------- |
+| Amber    | Yellow + Black | Mind                         |
+| Crimson  | Red + Black    | Alteration (Alter Creatures) |
+| Gray     | White + Black  | Light/Dark                   |
+| Green    | Yellow + Blue  | Nature                       |
+| Jasmine  | White + Yellow | Restoration^1^               |
+| Orange   | Red + Yellow   | Conjuration                  |
+| Pink     | White + Red    | Enhancement                  |
+| Purple   | Red + Blue     | Link^2^                      |
+| Sapphire | Blue + Black   | Time                         |
+| Sky      | White + Blue   | Divination                   |
 
-^2^ *Dragon magic deals with draconic characteristics. These include breath weapons, flight, awe, transformation, and summoning. In Ommtala, dragons summon minions to defend them, carry out their schemes, or gather information. They also change forms to prevent recognition.*
+^1^ *Restoration Magic is a lesser form of healing magic and is based on the Re-Forged Culture in More Ancestries & Cultures by Arcanist Press.*
 
-^3^ *Linking magic melds two things together like fire to a sword or invisibility to a cloak.*
+^2^ *Linking magic melds two things together like fire to a sword or invisibility to a cloak.*
 
-^4^ *Restoration Magic is a lesser form of healing magic and is based on the Re-Forged Culture in More Ancestries & Cultures by Arcanist Press.*
+There are also three very powerful combinations of three salts, Gold, Silver and Rust.
 
-Other combinations are possible, but do not generate secondary magic access.
+| Color  | Source Colors          | Theme                        |
+| ------ | ---------------------- | ---------------------------- |
+| Gold   | Black + White + Yellow | Clockwork                    |
+| Rust   | Black + White + Red    | Hew^3^                       |
+| Silver | Black + White + Blue   | Astral Travel, Pranic Travel |
 
-There are also two very powerful combinations of three salts, Gold and Silver.
-
-| Color  | Source Colors          | Theme                                        |
-| ------ | ---------------------- | -------------------------------------------- |
-| Silver | Black + White + Blue   | Mind, Astral Travel, Pranic Travel / Psychic |
-| Gold   | Black + White + Yellow | Clockwork / Lightning                        |
+^3^ *Hew magic separates abilities, memories, or skills away for one or more targets. The target can be anything.*
 
 Altogether, there are 17 *schools* of Salt Magic.
 
