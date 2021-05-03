@@ -44,7 +44,10 @@ There are also three very powerful combinations of three salts, Gold, Silver and
 | Rust   | Black + White + Red    | Hew^3^                       |
 | Silver | Black + White + Blue   | Astral Travel, Pranic Travel |
 
-^3^ *Hew magic separates abilities, memories, or skills away for one or more targets. The target can be anything.*
+^3^ *Hew magic separates abilities, conditions, memories, or skills away for one or more targets. The target can be anything. There are good uses for Hew, especially in removing conditions or warts. There is an expression of 'a saltman's arm' that tells of a salt mage that would take scars, blemishes, and warts from others and put them on her arm. To this day, many salt mages wear one a garmet with a long left sleever and a short right sleeve.* 
 
 Altogether, there are 17 *schools* of Salt Magic.
 
+### Galen
+
+Galen is considered the paragon of salt magic. She mastered all 17 types of salt magic though she never taught Rust Salt Magic because she feared its terrible potential. During the war, salt mages eventually discovered it with horrifying effect during the war.
