@@ -6,14 +6,14 @@ Each salt is associated with its color. Raw mined salt is dubbed Brown Salt.
 
 Each salt is also associated with a loose theme of magic and/or energy type.
 
-| Color  | Taste      | Theme                           |
-| ------ | ---------- | ------------------------------- |
-| Red    | bitter     | Modify (objects)                |
-| Blue   | sweet      | Illusion                        |
-| Yellow | sour       | Fate                            |
-| White  | saline     | Protection                      |
-| Black  | umami      | Destruction                     |
-| Raw    | it's awful | Telekinesis / Dispel Salt Magic |
+| Color       | Taste      | Theme                           |
+| ----------- | ---------- | ------------------------------- |
+| Red         | bitter     | Modify (objects)                |
+| Blue        | sweet      | Illusion                        |
+| Yellow      | sour       | Fate                            |
+| White       | saline     | Protection                      |
+| Black       | umami      | Destruction                     |
+| Brown (Raw) | it's awful | Telekinesis / Dispel Salt Magic |
 
 Salt mages gain mastery of an individual salt one at a time. As they gain mastery of another salt, new magics become available 
 
