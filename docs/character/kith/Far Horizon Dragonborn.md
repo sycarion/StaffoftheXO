@@ -26,6 +26,8 @@ Kiena Skafer - Silver Dragonborn
 
 Kiena Groxta - White Dragonborn (means snow and snow-white)
 
+Kiena Groot - New House (mix of dragonborn ancestries to create a new house)
+
 **Ability Score Increase.** Your Strength score increases by 2, and your Charisma score increases by 1.  
 
 **Alignment.** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.  
