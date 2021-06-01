@@ -32,14 +32,15 @@ The skills related to each ability score are shown in the following list. (No sk
 2. Arcana
 3. Athletics
 4. Craft
-5. Nature
-6. Perform
-7. Planes Lore
-8. Society
-9. Speechcraft
-10. Stealth
-11. Thievery
-12. Vehicle (Air/Land/Water)
+5. Investigation
+6. Nature
+7. Perform
+8. Planes Lore
+9. Society
+10. Speechcraft
+11. Stealth
+12. Thievery
+13. Vehicle (Air/Land/Water)
 
 The above list comes from Scroll for Initiative
 
